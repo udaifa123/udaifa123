@@ -466,7 +466,7 @@ User-focused
 
 <!-- Replace this URL with your actual LinkedIn profile -->
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/udaifa-k-k-777328394/)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
