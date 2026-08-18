@@ -278,13 +278,7 @@ A responsive shoe shopping application focused on reusable React components and 
 
 ---
 
-# 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=udaifa123&theme=transparent&hide_border=true" />
-
-</div>
 
 ---
 
@@ -298,13 +292,6 @@ A responsive shoe shopping application focused on reusable React components and 
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/udaifa123/udaifa123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
 
 ---
 
