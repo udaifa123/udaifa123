@@ -282,13 +282,7 @@ A responsive shoe shopping application focused on reusable React components and 
 
 ---
 
-# 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaifa123&theme=github-compact&hide_border=true&area=true&custom_title=Udaifa's%20Contribution%20Graph" width="100%" />
-
-</div>
 
 ---
 
